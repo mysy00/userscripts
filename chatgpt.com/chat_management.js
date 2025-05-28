@@ -1,8 +1,8 @@
 // ==UserScript==
-// @name         ChatGPT.com Bulk & Quick Delete + Refresh (Fixed Modal Reset)
+// @name         ChatGPT.com Easy Chat Management
 // @namespace    https://chatgpt.com/
 // @version      3.4.2
-// @description  Bulk-delete chats, add inline quick-delete buttons without confirmation, and a refresh button. Fixes modal state reset after deletion.
+// @description  Search for chats, filter them, quickly/bulk delete them.
 // @match        https://chatgpt.com/*
 // @grant        none
 // ==/UserScript==
